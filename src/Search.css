@@ -1,0 +1,25 @@
+.secondheader{
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    outline: 1px solid white;
+    height: 60px;
+    padding-left: 40px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    
+    
+}
+button{
+    margin-left: 1000px;
+    justify-content: center;
+    align-items: center;
+}
+.searchcountry {
+    align-items: center;
+    justify-content: center;
+    
+
+}

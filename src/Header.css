@@ -1,0 +1,21 @@
+.headerdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    outline: 1px solid black;
+    width: 100vw;
+    max-width: 100vw;
+    height:60px;
+    padding-left: 40px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+
+}
+.where {
+    font-size: large;
+}
+.darkmode {
+    font-size: small;
+}
